@@ -1,0 +1,55 @@
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    background-color:cornflowerblue;
+}
+.header_div{
+    background-color: rgb(85, 66, 194);
+    color:rgb(227, 104, 223);
+}
+.main_div button{
+border-width: 3px;
+font-family: cursive;
+margin-top:30px;
+width:130px;
+font-weight:bolder;
+letter-spacing:3px;
+}
+
+.copy_right_footer{
+position:fixed;
+color:rgb(255, 255, 255);
+background-color:rgb(61, 61, 190);
+width:100%;
+font-size:18px;
+line-height:3;
+text-align:center;
+text-shadow: 5px 5px 5px purple;
+bottom:0;
+}
+#idk{
+    Height:300px;
+    width: 300px;
+    margin-right: 50px;
+    background-image:url(https://www.pagalworld.pw/GpE34Kg9Gq/113510/146127-manike-mage-hithe-yohani-mp3-song-300.jpg);
+}
+#idk3{
+    Height:300px;
+    width: 300px;
+    margin-right: 50px;
+    background-image:url(https://images.hungama.com/c/1/ccd/0f8/53656056/53656056_300x300.jpg);
+}
+#idk4{
+    Height:300px;
+    width: 300px;
+    margin-right: 50px;
+    background-image:url(https://i.postimg.cc/NFzPgxrN/70699404-300x300.jpg);
+}
+#idk5{
+    Height:300px;
+    width: 300px;
+    margin-right: 50px;
+    background-image:url(https://c-fa.cdn.smule.com/rs-s77/arr/9a/d1/bfc1e403-971f-4d49-9274-0481277cc7d9_1024.jpg);
+}
+.idk2{
+    color:red; 
+}
